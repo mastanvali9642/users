@@ -31,6 +31,8 @@ public class Address2 {
 	public void setStreetName(String streetName) {
 		this.streetName = streetName;
 	}
+//sys
+	
 	public String getPincode() {
 		return pincode;
 	}
